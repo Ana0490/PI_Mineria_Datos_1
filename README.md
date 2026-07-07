@@ -5,9 +5,9 @@
 Proyecto Integrador de la materia Minería de Datos 1. Analiza un dataset de usuarios de una plataforma de
 streaming para estudiar patrones de consumo.
 
-- **Integrantes:** _(completar)_
-- **Comisión:** _(completar)_
-- **Fecha de entrega:** _(completar)_
+- **Integrante:** _Ana Santillan_
+- **Comisión:** _Sede Central_
+- **Fecha de entrega:** _07/07/2026_
 - **Repositorio:** https://github.com/Ana0490/PI_Mineria_Datos_1
 - **Aplicación Streamlit:** https://pimineriadatos1-thkworzmafqvz3smjrnrpm.streamlit.app/
 
