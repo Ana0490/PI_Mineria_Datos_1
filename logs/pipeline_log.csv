@@ -1,0 +1,13 @@
+Paso,Descripción,Filas,Nulos,Retención (%)
+0,Estado inicial del dataset (data/raw),8160,753,100.0
+1,Eliminación de filas 100% duplicadas,8034,753,98.46
+2,Eliminación de user_id duplicados (se conserva el primero),8000,753,98.04
+3,Normalización de subscription_plan (15 variantes -> 3 categorías),8000,753,98.04
+4,Normalización de country (26 variantes -> 7 países),8000,753,98.04
+5,Normalización de favorite_genre (29 variantes -> 7 géneros),8000,753,98.04
+6,Nulos de favorite_genre asignados a categoría 'No especificado',8000,513,98.04
+7,"age fuera de [13,100] -> nulo -> imputado con mediana por plan",8000,513,98.04
+8,monthly_watch_time_mins negativos/centinela -> nulo,8000,582,98.04
+9,"monthly_watch_time_mins: 262 nulos imputados con mediana por (plan, país)",8000,320,98.04
+10,"customer_support_tickets acotado al rango [0, 30] (capping)",8000,320,98.04
+11,last_login_date parseada a datetime unificado; inválidos -> NaT,8000,456,98.04
