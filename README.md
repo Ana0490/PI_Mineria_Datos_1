@@ -8,8 +8,8 @@ streaming para estudiar patrones de consumo.
 - **Integrantes:** _(completar)_
 - **Comisión:** _(completar)_
 - **Fecha de entrega:** _(completar)_
-- **Repositorio:** _(https://github.com/Ana0490/PI_Mineria_Datos_1)_
-- **Aplicación Streamlit:** _(completar con enlace público a Streamlit Cloud)_
+- **Repositorio:** https://github.com/Ana0490/PI_Mineria_Datos_1
+- **Aplicación Streamlit:** https://pimineriadatos1-thkworzmafqvz3smjrnrpm.streamlit.app/
 
 ## Objetivo del proyecto
 
@@ -85,7 +85,7 @@ Streamlit.
 
 La aplicación pública en Streamlit Cloud comunica los resultados para público general, en 4 secciones:
 Dataset, EDA (5 visualizaciones con interpretación), PCA y Conclusiones. No reemplaza la evidencia técnica
-del repositorio. Enlace: _(completar)_.
+del repositorio. Enlace: https://pimineriadatos1-thkworzmafqvz3smjrnrpm.streamlit.app/
 
 ## Cómo ejecutar localmente
 
